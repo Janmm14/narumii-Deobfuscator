@@ -1,4 +1,4 @@
-# DO NEvER USE - UNSAFE
+# DO NEVER USE - UNSAFE
 
 
 <p align="center">
